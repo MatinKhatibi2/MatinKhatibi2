@@ -1,5 +1,6 @@
 # ✅ About Me:
 Machine Learning programmer, 
+Python developer, 
 Computer Vision learner, 
 Student at National Organization for Development of Exceptional Talents (Sampad) in Iran
 
